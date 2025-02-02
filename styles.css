@@ -364,7 +364,6 @@ footer {
 /* For tablets (max-width: 768px) */
 @media (max-width: 768px) {
   h1 {
-    color: var(--accent-color);
     margin-top: 8%;
     margin-bottom: 8%;
   }
@@ -406,7 +405,6 @@ footer {
 /* For mobile phones (max-width: 480px) */
 @media (max-width: 480px) {
   h1 {
-    color: var(--accent-color);
     margin-top: 8%;
     margin-bottom: 8%;
   }
